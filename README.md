@@ -5,7 +5,7 @@ To address this challenge, we propose the development of an interactive digital 
 
 **Please keep in mind that this will only run locally but is set up to be putting official servers to run permanently.  
 
-**AI usage was used to help me created this program. 
+**This project utilizes a Hybrid Intelligence approach. I architected the core CRUD and Security layers manually using Spring Boot and React, and integrated custom-trained Python/Flask machine learning models for predictive agricultural analytics 
 
 ***To run:***
 
